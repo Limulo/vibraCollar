@@ -1,7 +1,7 @@
 # vibraCollar
 
-**vibraCollar** is an experimental project on a dog collar that mount a vibration motor inside it so to be used with dogs which suffer of earing problems.
+**vibraCollar** is an experimental project about a dog collar mounting a vibration motor.
 
-_vibraCollar_ is also an temporary name.
+_vibraCollar_ is a temporary name.
 
 We are using Arduino as development environment.
